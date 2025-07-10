@@ -37,6 +37,7 @@ Based on customer feedback, suggestions are provided for product improvements, c
 Areas of high satisfaction or frequent complaint are identified to help guide business decisions.
 
 Tools & Libraries:
+
 Selenium: Web automation for data collection
 
 BeautifulSoup: HTML parsing
