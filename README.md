@@ -30,7 +30,6 @@ Key Insights:
 The overall sentiment distribution shows the proportion of positive and negative reviews.
 Analysis of ratings versus sentiment highlights how numerical ratings align with customer emotions.
 Word clouds reveal frequently mentioned topics and themes in both positive and negative feedback.
-
 Insights into review length suggest whether detailed reviews tend to be more positive or negative.
 
 Recommendations:
@@ -39,9 +38,13 @@ Areas of high satisfaction or frequent complaint are identified to help guide bu
 
 Tools & Libraries:
 Selenium: Web automation for data collection
+
 BeautifulSoup: HTML parsing
+
 Pandas: Data manipulation and cleaning
+
 NLTK & TextBlob: Natural language processing and sentiment analysis
+
 Matplotlib & Seaborn: Data visualization
 WordCloud: Visualization of frequently used words
 
